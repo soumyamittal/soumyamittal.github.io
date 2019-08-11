@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Soumya Mittal"
   avatar           : /assets/images/Soumya_Mittal.jpg
-  bio              : "PhD Candidate<br/>ECE Department<br/>Carnegie Mellon University<br/>Pittsburgh, PA"
+  bio              : "PhD Candidate<br/>Electrical and Computer Engineering<br/>Carnegie Mellon University"
   school           : Carnegie Mellon University
   location         : "Pittsburgh, PA"
   email            :
@@ -123,15 +123,9 @@ author:
     - label: "Scholar"
       icon: "fab fa-google"
       url: "https://scholar.google.com/citations?user=wIoS-CYAAAAJ&hl=en"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://linkedin.com/in/soumyamittal/"
 
 # Site Footer
 footer:
@@ -284,14 +278,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
