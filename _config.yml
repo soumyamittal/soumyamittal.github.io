@@ -108,11 +108,11 @@ analytics:
 # Site Author
 author:
   name             : "Soumya Mittal"
-  avatar           : /assets/images/Soumya_Mittal.jpg"
+  avatar           : /assets/images/Soumya_Mittal.jpg
   bio              : "PhD Candidate<br/>ECE Department<br/>Carnegie Mellon University<br/>Pittsburgh, PA"
   school           : Carnegie Mellon University
   location         : "Pittsburgh, PA"
-  email            : soumyami[at]andrew[dot]cmu[dot]edu
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -121,8 +121,8 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://soumyamittal.github.io"
     - label: "Scholar"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/citations?user=wIoS-CYAAAAJ&hl=en"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
