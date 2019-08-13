@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Welcome
+title: 
 tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, roorkee, intel, globalfoundries}
 ---
 
