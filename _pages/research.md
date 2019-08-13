@@ -6,10 +6,9 @@ tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield
 
 Our research is focused towards the development of advanced techniques and algorithms to improve the design, test and diagnosis of integrated circuits, and in turn, facilitate yield analysis and learning. It can be divided in three categories.
 {: .text-justify}
-
 + ### Logic circuit diagnosis, failure analysis and yield learning
 
-+ [### Machine learning in circuit diagnosis](#abcd)
++ ### [Machine learning in circuit diagnosis](#2)
 
 + ### Test chip design, test and diagnosis
 
@@ -28,7 +27,7 @@ Our research is focused towards the development of advanced techniques and algor
    *Abstract*: The goal of diagnosis is to identify defect locations and subsequently, identify the root cause so as to minimize (and ideally eliminate) the need for physical failure analysis. With advanced technology nodes, there has been an increasing number of front-end (i.e., within a standard cell) defects. Conventional diagnosis approaches typically fail to localize such defects. In addition, circuit-level noise can change the tester response in an unexpected way, and can decrease the quality of diagnosis. This work describes a noise-resistant approach called NOIDA (NOise-resistant Intra-cell DiAgnosis) for effectively diagnosing cell-level defects based on the analysis of the intra-cell physical neighborhoods surrounding likely defect locations. Defect behavior is derived based on the neighborhood, instead of relying on a specific fault model. Experiments demonstrate the effectiveness of NOIDA using a library of standard cells. The results show that for over 16,000 static and sequence-dependent defects, the method achieves an average resolution improvement of 12.1% over prior work with a small accuracy loss (specifically, 1.6%). Additionally, NOIDA is found to be more robust to noise in the tester response. Specifically, in the presence of noisy tester response, NOIDA attains an accuracy of 97.6% with an average resolution improvement of 48.6% over prior work.
    {: .text-justify}
 
-## Machine learning in circuit diagnosis <a name="Here"></a>
+## <a name="2"></a>Machine learning in circuit diagnosis
 
 + <span style="color:blue">Soumya Mittal</span>, R.D. Blanton, **"LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology"**, *IEEE European Test Symposium (ETS), 2019*  
    *Abstract*: Software-based diagnosis analyzes the observed response of a failing circuit to pinpoint potential defect locations and deduce their respective behaviors. It plays a crucial role in finding the root cause of failure, and subsequently facilitates yield analysis, learning and optimization. This paper describes a two-phase, physically-aware diagnosis methodology called LearnX to improve the quality of diagnosis, and in turn the quality of design, test and manufacturing. The first phase attempts to diagnose a defect that manifests as a well-established fault behavior (e.g., stuck or bridge fault models). The second phase uses machine learning to build a model (separate for each defect type) that learns the characteristics of defect candidates to distinguish correct candidates from incorrect ones. Results from 30,000 fault injection experiments indicate that LearnX returns an ideal diagnosis result (i.e., a single candidate correctly representing the injected fault) for 73.2% of faulty circuits, which is 86.6% higher than state-of-the-art commercial diagnosis. Silicon experiments further demonstrate the value of LearnX.
