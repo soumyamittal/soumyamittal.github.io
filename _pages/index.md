@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title:
 tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, roorkee, intel, globalfoundries}
 ---
 
@@ -18,6 +18,6 @@ I earned my Bachelor's degree from the Department of Electronics and Communicati
 
 ### News
 
-+ [May 2019] Won 1st prize in the Ph.D. Forum competition held at the [24th IEEE European Test Symposium.](https://www.testgroup.polito.it/ets19/), Baden-Baden, Germany
-+ [May 2019] Presented our paper, *LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology*, at the [24th IEEE European Test Symposium.](https://www.testgroup.polito.it/ets19/), Baden-Baden, Germany
++ [May 2019] Won 1st prize in the Ph.D. Forum competition held at the [24th IEEE European Test Symposium](https://www.testgroup.polito.it/ets19/), Baden-Baden, Germany
++ [May 2019] Presented our paper, *LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology*, at the [24th IEEE European Test Symposium](https://www.testgroup.polito.it/ets19/), Baden-Baden, Germany
 +
