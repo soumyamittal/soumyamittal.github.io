@@ -9,6 +9,7 @@ Our research is focused towards the development of advanced techniques and algor
 + [*Logic circuit diagnosis, failure analysis and yield learning*](#1)
 + [*Machine learning in circuit diagnosis*](#2)
 + [*Test chip design, test and diagnosis*](#3)
+
 ---
 
 ## <a name="1"></a>Logic circuit diagnosis, failure analysis and yield learning
