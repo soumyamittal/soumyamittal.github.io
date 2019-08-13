@@ -1,4 +1,5 @@
 ---
+layout: page
 permalink: /research/
 title: Research
 tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, roorkee, intel, globalfoundries}
@@ -8,7 +9,7 @@ Our research is focused towards the development of advanced techniques and algor
 
 ---
 
-###Test chip design, test and Diagnosis
+### Test chip design, test and Diagnosis
 
 + Multiple-Defect Diagnosis for Logic Characterization Vehicles  
 Ben Niewenhuis, **Soumya Mittal**, R.D. Blanton  
