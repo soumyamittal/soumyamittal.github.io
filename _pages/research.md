@@ -22,12 +22,16 @@ To further improve the resolution and accuracy of diagnosis, LearnX is strengthe
 
 ## <a name="2"></a>Machine learning in circuit diagnosis
 
-Logic diagnosis, the process of identifying and locating possible defects in failing integrated circuits, is a key step in yield learning for both technology development and high-volume manufacturing. However, resources can be easily wasted if diagnosis results in no meaningful information, or if the type of diagnostic result is not actionable. It would therefore be very beneficial to have a comprehensive preview of diagnostic outcomes beforehand, which allows diagnosis resources to be prioritized in a more reasonable and effective way. We have developed a methodology to predict whether a fail log for a given design will result in a diagnosis outcome that is meaningful for the purpose at hand. Different aspects of potential diagnosis outcomes such as the existence of multiple defects, the magnitude of diagnosis resolution, the amount of time a single diagnosis run  takes, and the type of defect (logic vs. scan chain) are predicted using random forest classification and regression.
+Logic diagnosis, the process of identifying and locating possible defects in failing integrated circuits, is a key step in yield learning for both technology development and high-volume manufacturing. However, resources can be easily wasted if diagnosis results in no meaningful information, or if the type of diagnostic result is not actionable. It would therefore be very beneficial to have a comprehensive preview of diagnostic outcomes beforehand, which allows diagnosis resources to be prioritized in a more reasonable and effective way.
+{: .text-justify}
+
+We have developed a methodology to predict whether a fail log for a given design will result in a diagnosis outcome that is meaningful for the purpose at hand. Different aspects of potential diagnosis outcomes such as the existence of multiple defects, the magnitude of diagnosis resolution, the amount of time a single diagnosis run  takes, and the type of defect (logic vs. scan chain) are predicted using random forest classification and regression.
 {: .text-justify}
 
 ## <a name="3"></a>Test chip design, test and diagnosis
 
 A comprehensive investigation of new integrated circuit (IC) design and fabrication technologies is crucial for yielding reliable ICs. A novel test chip design methodology called the Carnegie Mellon Logic Characterization Vehicle (CM-LCV) is developed that
+{: .text-justify}
 + Reflects design characteristics of actual product layouts
 + Guarantees 100% intra-cell defect testability for all standard cells
 + Ensures optimal cell-aware diagnosability by design
