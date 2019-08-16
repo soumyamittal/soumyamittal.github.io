@@ -7,6 +7,7 @@ tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield
 Hello!
 
 I am currently a Ph.D. student in the [Department of Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University (CMU)](http://www.cmu.edu/). I work with [Prof. Shawn Blanton](http://www.ece.cmu.edu/~actl) in the fields of integrated circuit test and diagnosis, and machine learning.
+{: .text-justify}
 
 My research interests include test of integrated circuits, modeling and (software) diagnosis of semiconductor defects, and application of machine learning to analyze silicon failure data.
 {: .text-justify}

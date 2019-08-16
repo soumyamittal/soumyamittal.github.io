@@ -6,9 +6,9 @@ tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield
 
 Our research is focused towards the development of advanced techniques and algorithms to improve the design, test and diagnosis of integrated circuits, and in turn, facilitate yield analysis and learning. It can be divided in three categories.
 {: .text-justify}
-+ [*Logic circuit diagnosis, failure analysis and yield learning*](#1)
-+ [*Machine learning in circuit diagnosis*](#2)
-+ [*Test chip design, test and diagnosis*](#3)
++ [Logic circuit diagnosis, failure analysis and yield learning](#1)
++ [Machine learning in circuit diagnosis](#2)
++ [Test chip design, test and diagnosis](#3)
 
 ---
 
