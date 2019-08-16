@@ -4,10 +4,9 @@ title: Publications
 tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, roorkee, intel, globalfoundries}
 ---
 
-+ <span style="color:blue">Soumya Mittal</span>, R. D. Blanton, **"LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology"**, *IEEE European Test Symposium (ETS), 2019*  
++ <span style="color:blue">Soumya Mittal</span>, R. D. Blanton, **"LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology"**, *IEEE European Test Symposium (ETS), 2019*  [IEEE Xplore](https://ieeexplore.ieee.org/document/8791512){: .btn .btn--success}
    *Brief Abstract*: This paper describes a two-phase, physically-aware diagnosis methodology called LearnX to improve the quality of diagnosis, and in turn the quality of design, test and manufacturing. The first phase attempts to diagnose a defect that manifests as a well-established fault behavior (e.g., stuck or bridge fault models). The second phase uses machine learning to build a model (separate for each defect type) that learns the characteristics of defect candidates to distinguish correct candidates from incorrect ones.
    {: .text-justify}
-   [IEEE Xplore](https://ieeexplore.ieee.org/document/8791512){: .btn .btn--success}
 
 + Chenlei Fang, Qicheng Huang, <span style="color:blue">Soumya Mittal</span>, R. D. Blanton, **"Diagnosis Outcome Preview through Learning"**, *IEEE VLSI Test Symposium (VTS), 2019*  
    *Brief Abstract*: Logic diagnosis can be time-consuming and produce unuseful information for further investigation of yield loss. It would therefore be desirable to have a preview of diagnosis outcomes beforehand, which helps engineers allocate diagnosis resources in a more efficient way. In this work, random forest classification and regression techniques are used to predict three aspects of potential diagnosis outcomes: existence of multiple defects, diagnosis resolution, and runtime magnitude.
