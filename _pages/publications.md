@@ -35,25 +35,21 @@ tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield
    {: .text-justify}
 
 + Phillip Fynan, Zeye Liu, Ben Niewenhuis, <span style="color:blue">Soumya Mittal</span>, Marcin Strojwas, R. D. Blanton, **"Logic characterization vehicle design reflection via layout rewiring"**, *IEEE International Test Conference (ITC), 2016*  
-   *Brief Abstract*: A new method is proposed for constructing a CM-LCV that reflects the design characteristics of a product through rewiring either the entire layout or some portion thereof. Rewiring has many advantages including the transformation of an actual product front-end to a logic-based test chip that has significant transparency to failure. Consequently, this means that front-end masks from an actual product can be re-used to create an effective LCV that is both more reflective and inexpensive to fabricate.
-
+   *Brief Abstract*: A new method is proposed for constructing a CM-LCV that reflects the design characteristics of a product through rewiring either the entire layout or some portion thereof. Rewiring has many advantages including the transformation of an actual product front-end to a logic-based test chip that has significant transparency to failure. Consequently, this means that front-end masks from an actual product can be re-used to create an effective LCV that is both more reflective and inexpensive to fabricate.  
    [IEEE Xplore](https://ieeexplore.ieee.org/document/7805849){: .btn .btn--success}  
    {: .text-justify}
 
 +  <span style="color:blue">Soumya Mittal</span>, Zeye Liu, Ben Niewenhuis, R. D. Blanton, **"Test chip design for optimal cell-aware diagnosability"**, *IEEE International Test Conference (ITC), 2016*  
-   *Brief Abstract*: Rapid yield learning in a new manufacturing process via test chips is greatly enhanced with a “Design for Diagnosis” methodology. Since diagnosis is inherently a function of design, it is crucial that the design flow ensures defect-level diagnosis resolution and accuracy. This work describes an enhanced implementation methodology for the Carnegie-Mellon Logic Characterization Vehicle (CM-LCV) that ensures optimal cell-aware diagnosability by design.
-
+   *Brief Abstract*: Rapid yield learning in a new manufacturing process via test chips is greatly enhanced with a “Design for Diagnosis” methodology. Since diagnosis is inherently a function of design, it is crucial that the design flow ensures defect-level diagnosis resolution and accuracy. This work describes an enhanced implementation methodology for the Carnegie-Mellon Logic Characterization Vehicle (CM-LCV) that ensures optimal cell-aware diagnosability by design.  
    [IEEE Xplore](https://ieeexplore.ieee.org/document/7805850){: .btn .btn--success}  
    {: .text-justify}
 
 +  Ben Niewenhuis, Zeye Liu, <span style="color:blue">Soumya Mittal</span>, R. D. Blanton, **"Logic characterization vehicle design for yield learning"**, *SEMI Advanced Semiconductor Manufacturing Conference (ASMC), 2016*    
    *Brief Abstract*: A comprehensive investigation of new integrated circuit (IC) design and fabrication technologies is crucial for yielding reliable ICs. This work describes the state of a novel test chip design methodology that results in a test chip referred to as the Carnegie Mellon Logic Characterization Vehicle (CM-LCV).  
-
    [IEEE Xplore](https://ieeexplore.ieee.org/document/7491080){: .btn .btn--success}
    {: .text-justify}
 
 +  Zeye Liu, Ben Niewenhuis, <span style="color:blue">Soumya Mittal</span>, R. D. Blanton, **"Achieving 100% cell-aware coverage by design"**, *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2016*      
-   *Brief Abstract*: Prior work proposed a novel logic characterization vehicle called the Carnegie Mellon Logic Characterization Vehicle (CM-LCV), and an implementation flow that ensures a test chip to be product-like with near optimal testability and diagnosability. This work describes an enhanced implementation methodology for CM-LCV that not only guarantees 100% intra-cell defect testability for all standard cells but also reflects the user-specified design characteristics.
-
+   *Brief Abstract*: Prior work proposed a novel logic characterization vehicle called the Carnegie Mellon Logic Characterization Vehicle (CM-LCV), and an implementation flow that ensures a test chip to be product-like with near optimal testability and diagnosability. This work describes an enhanced implementation methodology for CM-LCV that not only guarantees 100% intra-cell defect testability for all standard cells but also reflects the user-specified design characteristics.  
    [IEEE Xplore](https://ieeexplore.ieee.org/document/7459289){: .btn .btn--success}
    {: .text-justify}
