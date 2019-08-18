@@ -6,7 +6,6 @@ tags: {soumya, mittal, cmu, carnegie, mellon, university, testing, diagnosis, at
 ## Carnegie Mellon University
 
 * [18-765: Digital Systems Testing and Testable Design](https://courses.ece.cmu.edu/18765) - A graduate-level course on the theory and practice of fault models, test generation, design for testability for digital integrated circuits and systems.
-{: .text-justify}
     * Fall 2019
     * Fall 2018
     * Fall 2017
