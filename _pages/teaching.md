@@ -4,7 +4,7 @@ title: Teaching
 tags: {soumya, mittal, cmu, carnegie, mellon, university, testing, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, sams, 18-765}
 ---
 
-## Carnegie Mellon university
+## Carnegie Mellon University
 
 ### Teaching Assistant
 
