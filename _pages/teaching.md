@@ -22,6 +22,7 @@ tags: {soumya, mittal, cmu, carnegie, mellon, university, testing, diagnosis, at
 ### Project Assistant
 
 + [Summer Academy for Mathematics and Science (SAMS)](https://admission.enrollment.cmu.edu/pages/access-sams) - A six-week summer program for rising seniors and juniors.
+{: .text-justify}
     - Summer 2017
     - Summer 2018
     - Summer 2019
