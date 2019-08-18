@@ -12,11 +12,10 @@ tags: {soumya, mittal, cmu, carnegie, mellon, university, testing, diagnosis, at
     * Spring 2016
 
 * [18-615: Micro and Nano Systems Fabrication](https://courses.ece.cmu.edu/18615) - A graduate-level course on the process flow and design methodology for integrated systems fabrication.
-{: .text-justify}
     * Spring 2017
 
 * [Summer Academy for Mathematics and Science (SAMS)](https://admission.enrollment.cmu.edu/pages/access-sams) - A six-week summer program for rising seniors and juniors.
-{: .text-justify}
     * Summer 2017
     * Summer 2018
     * Summer 2019
+{: .text-justify}
