@@ -21,4 +21,4 @@ tags: {soumya, mittal, cmu, carnegie, mellon, university, testing, diagnosis, at
 {: .text-justify}
   - Summer 2017
   - Summer 2018
-  - Summer 2019
+  - Summer 2019 
