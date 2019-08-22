@@ -99,9 +99,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-146264948-1"
     anonymize_ip         : # true, false (default)
 
 
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Soumya Mittal"
   avatar           : /assets/images/Soumya_Mittal.jpg
-  bio              : "PhD Candidate<br/>Electrical and Computer Engineering<br/>Carnegie Mellon University"
+  bio              : "PhD Student<br/>Electrical and Computer Engineering<br/>Carnegie Mellon University"
   school           : Carnegie Mellon University
   location         : "Pittsburgh, PA"
   email            :
