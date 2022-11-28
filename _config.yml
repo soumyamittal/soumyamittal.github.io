@@ -20,7 +20,7 @@ title                    : "Soumya Mittal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Soumya Mittal"
-description              : "Personal webpage of Soumya Mittal, a PhD student in the Department of Electrical and Computer Engineering at Carnegie Mellon University, Pittsburgh, PA"
+description              : "Personal webpage of Soumya Mittal, senior yield and diagnostics engineer at Qualcomm Technologies, Inc., San Diego, CA, USA"
 url                      : "https://soumyamittal.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : soumyamittal/soumyamittal.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Soumya Mittal"
   avatar           : /assets/images/Soumya_Mittal.jpg
-  bio              : "PhD Student<br/>Electrical and Computer Engineering<br/>Carnegie Mellon University"
-  school           : Carnegie Mellon University
-  location         : "Pittsburgh, PA"
+  bio              : "Senior Yield and Diagnostics Engineer<br/>Qualcomm Technologies Inc."
+  school           : CMU PhD
+  location         : "San Diego, CA, USA"
   email            :
   links:
     - label: "Email"
