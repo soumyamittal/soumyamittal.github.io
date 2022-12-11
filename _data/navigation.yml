@@ -2,7 +2,7 @@
 main:
    - title: "Welcome"
      url: /
-   - title: "Research"
+   - title: "PhD Research"
      url: /research/
    - title: "Publications"
      url: /publications/

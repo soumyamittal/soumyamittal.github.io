@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: Research
+title: PhD Research
 tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, roorkee, intel, globalfoundries}
 ---
 

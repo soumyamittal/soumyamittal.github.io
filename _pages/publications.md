@@ -1,8 +1,28 @@
 ---
 permalink: /publications/
 title: Publications
-tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, roorkee, intel, globalfoundries}
+tags: {soumya, mittal, qualcomm, statistics, cmu, carnegie, mellon, university, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, roorkee, intel, globalfoundries}
 ---
+
++ <span style="color:blue">Soumya Mittal</span>, Szczepan Urban, Kun Young Chung, Jakub Janicki, Wu-Tung Cheng, Martin Parley, Manish Sharma, Shaun Nicholson, **"Industry Evaluation of Reversible Scan Chain Diagnosis"**, *International Test Conference (ITC), 2022*  
+   *Brief Abstract*: ...  
+   [IEEE Xplore](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wIoS-CYAAAAJ&sortby=pubdate&citation_for_view=wIoS-CYAAAAJ:yD5IFk8b50cC){: .btn .btn--success}
+   {: .text-justify}
+
++ Kun Young Chung, Shaun Nicholson, <span style="color:blue">Soumya Mittal</span>, Martin Parley, Gaurav Veda, Manish Sharma, Matt Knowles, Wu-Tung Cheng, **"Improving Diagnosis Resolution with Population Level Statistical Diagnosis"**, *International Symposium for Testing and Failure Analysis (ISTFA), 2021*  
+   *Brief Abstract*: In this paper, we present a diagnosis resolution improvement methodology for scan-based tests. This resolution improvement is achieved by considering the diagnosis problem at the level of a population (e.g., a wafer) of failing die instead of analyzing each failing die completely independently as has been done traditionally.
+   [ASM International](https://dl.asminternational.org/istfa/proceedings-abstract/ISTFA2021/84215/388/18305){: .btn .btn--success}
+   {: .text-justify}
+
++ Qicheng Huang, Chenlei Fang, <span style="color:blue">Soumya Mittal</span>, R. D. Blanton, **"Towards Smarter Diagnosis: A Learning-based Diagnostic Outcome Previewer"**, *ACM Transactions on Design Automation of Electronic Systems (TODAES), 2020*  
+   *Brief Abstract*: A learning-based previewer is proposed that is able to predict five aspects of diagnostic outcomes for a failing IC, including diagnosis success, defect count, failure type, resolution, and runtime magnitude. The previewer consists of three classification models and one regression model, where Random Forest classification and regression are used.  
+   [ACM](https://dl.acm.org/doi/abs/10.1145/3398267){: .btn .btn--success}
+   {: .text-justify}
+
++ <span style="color:blue">Soumya Mittal</span>, R. D. Blanton, **"A Deterministic-Statistical Multiple-Defect Diagnosis Methodology"**, *IEEE VLSI Test Symposium (ETS), 2020*  
+   *Brief Abstract*: This paper describes a three-phase, physically-aware diagnosis methodology called MD-LearnX to effectively diagnose multiple defects, and in turn, aid in accelerating the design and process development. The first phase identifies a defect that resembles traditional fault models. The second and the third phases utilize the X-fault model and machine learning to identify correct candidates.  
+   [IEEE Xplore](https://ieeexplore.ieee.org/document/9107603){: .btn .btn--success}
+   {: .text-justify}
 
 + <span style="color:blue">Soumya Mittal</span>, R. D. Blanton, **"LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology"**, *IEEE European Test Symposium (ETS), 2019*  
    *Brief Abstract*: This paper describes a two-phase, physically-aware diagnosis methodology called LearnX to improve the quality of diagnosis, and in turn the quality of design, test and manufacturing. The first phase attempts to diagnose a defect that manifests as a well-established fault behavior (e.g., stuck or bridge fault models). The second phase uses machine learning to build a model (separate for each defect type) that learns the characteristics of defect candidates to distinguish correct candidates from incorrect ones.  
