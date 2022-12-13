@@ -5,7 +5,8 @@ tags: {soumya, mittal, qualcomm, statistics, cmu, carnegie, mellon, university, 
 ---
 
 + <span style="color:blue">Soumya Mittal</span>, Szczepan Urban, Kun Young Chung, Jakub Janicki, Wu-Tung Cheng, Martin Parley, Manish Sharma, Shaun Nicholson, **"Industry Evaluation of Reversible Scan Chain Diagnosis"**, *International Test Conference (ITC), 2022*  
-   *Brief Abstract*: ...  
+   *Brief Abstract*: ...
+   [IEEE Xplore](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wIoS-CYAAAAJ&sortby=pubdate&citation_for_view=wIoS-CYAAAAJ:yD5IFk8b50cC){: .btn .btn--success}
    [IEEE Xplore](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wIoS-CYAAAAJ&sortby=pubdate&citation_for_view=wIoS-CYAAAAJ:yD5IFk8b50cC){: .btn .btn--success}
    {: .text-justify}
 

@@ -4,7 +4,7 @@ title: PhD Research
 tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, roorkee, intel, globalfoundries}
 ---
 
-Our research is focused towards the development of advanced techniques and algorithms to improve the design, test and diagnosis of integrated circuits, and in turn, facilitate yield analysis and learning. It can be divided in three categories.
+My research was focused towards the development of advanced techniques and algorithms to improve the design, test and diagnosis of integrated circuits, and in turn, facilitate yield analysis and learning. It can be divided in three categories.
 {: .text-justify}
 + [Logic circuit diagnosis, failure analysis and yield learning](#1)
 + [Machine learning in circuit diagnosis](#2)
@@ -20,7 +20,7 @@ Software-based diagnosis analyzes the observed response of a failing circuit to 
 To further improve the resolution and accuracy of diagnosis, LearnX is strengthened by a back-end layout analysis technique called [PADLOC (Physically-aware Defect Localization and Characterization)](https://ieeexplore.ieee.org/document/8267889) and a front-end approach called [NOIDA (NOise-resistant Intra-cell DiAgnosis)](https://ieeexplore.ieee.org/document/8368664). Both methods are applicable to any defect type and can handle defects exhibiting arbitrary characteristics. Instead of using a particular fault model to locate defects, they derive the defect behavior by analyzing the logic activity of the nets surrounding its location.
 {: .text-justify}
 
-## <a name="2"></a>Machine learning in circuit diagnosis
+## <a name="2"></a>Machine learning for volume diagnostics throughput
 
 Logic diagnosis, the process of identifying and locating possible defects in failing integrated circuits, is a key step in yield learning for both technology development and high-volume manufacturing. However, resources can be easily wasted if diagnosis results in no meaningful information, or if the type of diagnostic result is not actionable. It would therefore be very beneficial to have a comprehensive preview of diagnostic outcomes beforehand, which allows diagnosis resources to be prioritized in a more reasonable and effective way.
 {: .text-justify}
