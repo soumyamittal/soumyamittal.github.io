@@ -7,13 +7,10 @@ tags: {soumya, mittal, qualcomm, cmu, carnegie, mellon, university, diagnosis, s
 Hello!
 
 I am currently a senior yield and diagnostics engineer at [Qualcomm Technologies Inc.](https://www.qualcomm.com/home), San Diego, California, USA. My interests lie at the intersection of semiconductor diagnostics, yield and machine learning.  I lead the development of scan diagnostics methodologies and logic yield ramp of groundbreaking Snapdragon products.
-{: .text-justify}
 
 I graduated with a PhD from [Department of Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University (CMU)](http://www.cmu.edu/) in 2020 under the guidance of [Prof. Shawn Blanton](http://www.ece.cmu.edu/~actl). I pioneered the use of machine learning to enhance logic diagnosis algorithms, and, consequently, accelerate failure analysis and yield learning.
-{: .text-justify}
 
 I earned my Bachelor's degree from the Department of Electronics and Communication Engineering at [Indian Institute of Technology (IIT) Roorkee](https://www.iitr.ac.in/), India in 2014. I have held an internship at [GlobalFoundries](https://www.globalfoundries.com/) and [Intel](https://www.intel.com) in the summers of 2015 and 2016, respectively.
-{: .text-justify}
 
 ---
 
