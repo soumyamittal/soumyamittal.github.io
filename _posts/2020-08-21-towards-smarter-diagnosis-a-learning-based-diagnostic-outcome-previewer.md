@@ -1,5 +1,5 @@
 ---
-title: Towards Smarter Diagnosis: A Learning-based Diagnostic Outcome Previewer
+title: "Towards Smarter Diagnosis: A Learning-based Diagnostic Outcome Previewer"
 classes: wide
 ---
 
