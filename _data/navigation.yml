@@ -8,6 +8,8 @@ main:
      url: /publications/
    - title: "Blog"
      url: /blog/
+   - title: "Professional Service"
+     url: /professional-service/
    - title: "Teaching"
      url: /teaching/
 
