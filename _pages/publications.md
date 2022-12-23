@@ -30,7 +30,7 @@ classes: wide
 
 + Qicheng Huang, Chenlei Fang, <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"Towards Smarter Diagnosis: A Learning-based Diagnostic Outcome Previewer"**, *ACM Transactions on Design Automation of Electronic Systems (TODAES), 2020*   [ACM](https://dl.acm.org/doi/abs/10.1145/3398267){: .btn .btn--success}
 
-+ <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"A Deterministic-Statistical Multiple-Defect Diagnosis Methodology"**, *IEEE VLSI Test Symposium (ETS), 2020*   [IEEE Xplore](https://ieeexplore.ieee.org/document/9107603){: .btn .btn--success}
++ <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"A Deterministic-Statistical Multiple-Defect Diagnosis Methodology"**, *IEEE VLSI Test Symposium (VTS), 2020*   [IEEE Xplore](https://ieeexplore.ieee.org/document/9107603){: .btn .btn--success}
 
 + <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology"**, *IEEE European Test Symposium (ETS), 2019*   [IEEE Xplore](https://ieeexplore.ieee.org/document/8791512){: .btn .btn--success}
 

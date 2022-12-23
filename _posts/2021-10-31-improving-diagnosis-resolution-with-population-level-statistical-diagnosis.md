@@ -1,10 +1,11 @@
 ---
-title: Industry Evaluation of Reversible Scan Chain Diagnosis
+title: Improving Diagnosis Resolution with Population Level Statistical Diagnosis
 ---
 
-I presented this paper at the International Test Conference (ITC), 2022.
+This paper was presented at the International Symposium for Testing and Failure Analysis (ISTFA), 2021.
 
-Summary: Reversible scan chain is an architecture targeted towards improving the quality of chain diagnosis. In this scan architecture, chains are designed to shift the test data in both directions to isolate a defect. We implemented this technique in a test chip fabricated in a bleeding-edge technology node. We present the detailed evaluation method along with the silicon data and failure analysis results.
-{: .text-justify}
+Authors: Kun Young Chung, Shaun Nicholson, <span style="color:#BB86FC">Soumya Mittal</span>, Martin Parley, Gaurav Veda, Manish Sharma, Matt Knowles, Wu-Tung Cheng
+
+Summary: In this paper, we present a diagnosis resolution improvement methodology for scan-based tests. This resolution improvement is achieved by considering the diagnosis problem at the level of a population (e.g., a wafer) of failing die instead of analyzing each failing die completely independently as has been done traditionally.
 
 ---

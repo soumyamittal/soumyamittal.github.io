@@ -8,6 +8,7 @@ classes: wide
 
 Program Committee Member
 + IEEE European Test Symposium (ETS) 2023
++ IEEE Latin-American Test Symposium (LATS) 2023
 
 ---
 
@@ -24,4 +25,5 @@ Conference Reviewer
 + IEEE International Test Conference (ITC)
 + IEEE VLSI Test Symposium (VTS)
 + IEEE European Test Symposium (ETS)
+
 ---
