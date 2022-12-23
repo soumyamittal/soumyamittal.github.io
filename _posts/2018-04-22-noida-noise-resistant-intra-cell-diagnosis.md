@@ -1,5 +1,6 @@
 ---
 title: "NOIDA: Noise-resistant Intra-cell Diagnosis"
+classes: wide
 ---
 
 I presented this paper at the VLSI Test Symposium (VTS), 2018.

@@ -1,5 +1,6 @@
 ---
 title: Industry Evaluation of Reversible Scan Chain Diagnosis
+classes: wide
 ---
 
 I presented this paper at the International Test Conference (ITC), 2022.

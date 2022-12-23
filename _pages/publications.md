@@ -34,7 +34,7 @@ classes: wide
 
 + <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology"**, *IEEE European Test Symposium (ETS), 2019*   [IEEE Xplore](https://ieeexplore.ieee.org/document/8791512){: .btn .btn--success}
 
-+ Chenlei Fang, Qicheng Huang, <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"Diagnosis Outcome Preview through Learning"**, *IEEE VLSI Test Symposium (VTS), 2019*   [IEEE Xplore](https://ieeexplore.ieee.org/document/8791512){: .btn .btn--success}
++ Chenlei Fang, Qicheng Huang, <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"Diagnosis Outcome Preview through Learning"**, *IEEE VLSI Test Symposium (VTS), 2019*   [IEEE Xplore](https://ieeexplore.ieee.org/document/8758642){: .btn .btn--success}
 
 + Qicheng Huang, Chenlei Fang, <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"Improving Diagnosis Efficiency via Machine Learning"**, *IEEE International Test Conference (ITC), 2018*  [IEEE Xplore](https://ieeexplore.ieee.org/document/8624884){: .btn .btn--success}
 

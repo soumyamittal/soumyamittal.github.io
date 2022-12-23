@@ -1,5 +1,6 @@
 ---
 title: Towards Smarter Diagnosis: A Learning-based Diagnostic Outcome Previewer
+classes: wide
 ---
 
 This work is published in the ACM Transactions on Design Automation of Electronic Systems (TODAES), 2020.

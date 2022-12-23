@@ -1,5 +1,6 @@
 ---
 title: Improving Diagnosis Resolution with Population Level Statistical Diagnosis
+classes: wide
 ---
 
 This paper was presented at the International Symposium for Testing and Failure Analysis (ISTFA), 2021.

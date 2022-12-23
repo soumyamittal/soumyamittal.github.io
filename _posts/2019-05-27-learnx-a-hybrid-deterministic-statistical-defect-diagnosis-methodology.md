@@ -1,5 +1,6 @@
 ---
 title: "LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology"
+classes: wide
 ---
 
 I presented this paper at the European Test Symposium (ETS), 2019.

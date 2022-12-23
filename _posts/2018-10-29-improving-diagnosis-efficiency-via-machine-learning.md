@@ -1,5 +1,6 @@
 ---
 title: Improving Diagnosis Efficiency via Machine Learning
+classes: wide
 ---
 
 This work was presented at the International Test Conference (ITC), 2018.

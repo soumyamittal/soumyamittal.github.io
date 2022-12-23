@@ -1,5 +1,6 @@
 ---
 title: A Deterministic-Statistical Multiple-Defect Diagnosis Methodology
+classes: wide
 ---
 
 I presented this paper at the VLSI Test Symposium (VTS), 2020.
