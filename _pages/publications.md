@@ -11,17 +11,15 @@ classes: wide
 + [Conferences and Journals](#conference)
 
 ## <a name="patent"></a>Patents
-+ <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"Integrated Circuit Defect Diagnosis Using Machine Learning"**, US Patent Application No. 16/986,963, Feb 2020
-
-  [Google Patents](https://patents.google.com/patent/US20210042644A1/en){: .btn .btn--success}
++ <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"Integrated Circuit Defect Diagnosis Using Machine Learning"**, US Patent Application No. 16/986,963, Feb 2020  [Google Patents](https://patents.google.com/patent/US20210042644A1/en){: .notice--danger}
 
 ## <a name="book"></a>Book Chapters and Magazines
 + Shawn Blanton, Qicheng Huang, Chenlei Fang, <span style="color:#BB86FC">Soumya Mittal</span>, **“Machine Learning in Logic Circuit Diagnosis”**, in Machine Learning Support for Fault Diagnosis of System-on-Chip, Springer, 2023
 
-  [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384){: .notice--warning}
+  [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384){: .notice--success}
 
 + Zeye Liu, Benjamin Niewenhuis, <span style="color:#BB86FC">Soumya Mittal</span>, Phillip Fynan, Shawn Blanton, **"Automated Methodology for Logic Characterization Vehicle Design”**, in EDFA Technical Articles 2019, vol. 21(1)
-  [ASM International](https://www.asminternational.org/web/edfas/news/edfa/-/journal_content/56/10192/36324098/MAGAZINE){: .btn .btn--success}
+  [ASM International](https://www.asminternational.org/web/edfas/news/edfa/-/journal_content/56/10192/36324098/MAGAZINE){: .notice--info}
 
 ## <a name="dissertation"></a>PhD Dissertation
 
