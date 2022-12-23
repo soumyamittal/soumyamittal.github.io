@@ -1,5 +1,6 @@
 ---
-title: "PADLOC: Physically-Aware Defect Localization and Characterization"
+title: "PADLOC&#58; Physically-Aware Defect Localization and Characterization"
+classes: wide
 ---
 
 I presented this paper at the Asian Test Symposium (ATS), 2017.
