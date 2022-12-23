@@ -20,7 +20,7 @@ classes: wide
 
 ## <a name="dissertation"></a>PhD Dissertation
 
-+ **"Learning Enhanced Diagnosis of Logic Circuit Failures"**, May 2020  [CMU](https://kilthub.cmu.edu/articles/thesis/Learning_Enhanced_Diagnosis_of_Logic_Circuit_Failures/11962164){: .btn .btn--success}  [Proquest](https://www.proquest.com/docview/2385344942){: .btn .btn--success}
++ <span style="color:#BB86FC">Soumya Mittal</span>, **"Learning Enhanced Diagnosis of Logic Circuit Failures"**, May 2020  [CMU](https://kilthub.cmu.edu/articles/thesis/Learning_Enhanced_Diagnosis_of_Logic_Circuit_Failures/11962164){: .btn .btn--success}  [Proquest](https://www.proquest.com/docview/2385344942){: .btn .btn--success}
 
 ## <a name="conference"></a>Conferences and Journals
 
