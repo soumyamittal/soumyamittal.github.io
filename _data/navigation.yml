@@ -8,7 +8,7 @@ main:
      url: /publications/
    - title: "Teaching"
      url: /teaching/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Sample Posts"
+     url: /post-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
