@@ -2,6 +2,7 @@
 permalink: /research/
 title: PhD Research
 tags: {soumya, mittal, cmu, carnegie, mellon, university, diagnosis, atpg, yield, failure, pfa, machine learning, graduate, phd, roorkee, intel, globalfoundries}
+classes: wide
 ---
 
 My research was focused towards the development of advanced techniques and algorithms to improve the design, test and diagnosis of integrated circuits, and in turn, facilitate yield analysis and learning. It can be divided in three categories.
@@ -10,7 +11,6 @@ My research was focused towards the development of advanced techniques and algor
 + [Machine learning in circuit diagnosis](#2)
 + [Test chip design, test and diagnosis](#3)
 
----
 
 ## <a name="1"></a>Logic circuit diagnosis, failure analysis and yield learning
 

@@ -6,9 +6,10 @@ main:
      url: /research/
    - title: "Publications"
      url: /publications/
+   - title: "Blog"
+     url: /blog/
    - title: "Teaching"
      url: /teaching/
-   - title: "Sample Posts"
-     url: /post-archive/
+
   # - title: "Sitemap"
   #   url: /sitemap/
