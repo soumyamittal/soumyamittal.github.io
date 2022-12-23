@@ -5,31 +5,29 @@ tags: {soumya, mittal, qualcomm, statistics, cmu, carnegie, mellon, university, 
 classes: wide
 ---
 
-+ Patents (#1)
-+ Book Chapters and Magazines (#2)
-+ PhD Dissertation (#3)
-+ Conferences and Journals (#3)
++ [Patents](#patent)
++ [Book Chapters and Magazines](#book)
++ [PhD Dissertation](#dissertation)
++ [Conferences and Journals](#conference)
 
-## <a name="1"></a>Patents
+## <a name="patent"></a>Patents
 + <span style="color:#BB86FC">Soumya Mittal</span>, Shawn Blanton, **"Integrated Circuit Defect Diagnosis Using Machine Learning"**, US Patent Application No. 16/986,963, Feb 2020
-[Google Patents](https://patents.google.com/patent/US20210042644A1/en){: .btn .btn--success}
+  [Google Patents](https://patents.google.com/patent/US20210042644A1/en){: .btn .btn--success}
 
-## <a name="2"></a>Book Chapters and Magazines
+## <a name="book"></a>Book Chapters and Magazines
 + Shawn Blanton, Qicheng Huang, Chenlei Fang, <span style="color:#BB86FC">Soumya Mittal</span>, **“Machine Learning in Logic Circuit Diagnosis”**, in Machine Learning Support for Fault Diagnosis of System-on-Chip, Springer, 2023
-[Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384){: .btn .btn--success}
+  [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384){: .btn .btn--success}
 
 + Zeye Liu, Benjamin Niewenhuis, <span style="color:#BB86FC">Soumya Mittal</span>, Phillip Fynan, Shawn Blanton, **"Automated Methodology for Logic Characterization Vehicle Design”**, in EDFA Technical Articles 2019, vol. 21(1)
+  [ASM International](https://www.asminternational.org/web/edfas/news/edfa/-/journal_content/56/10192/36324098/MAGAZINE){: .btn .btn--success}
 
-[ASM International](https://www.asminternational.org/web/edfas/news/edfa/-/journal_content/56/10192/36324098/MAGAZINE){: .btn .btn--success}
-
-## <a name="3"></a>PhD Dissertation
+## <a name="dissertation"></a>PhD Dissertation
 
 + **"Learning Enhanced Diagnosis of Logic Circuit Failures"**, May 2020
+  [CMU](https://kilthub.cmu.edu/articles/thesis/Learning_Enhanced_Diagnosis_of_Logic_Circuit_Failures/11962164){: .btn .btn--success}
+  [Proquest](https://www.proquest.com/docview/2385344942){: .btn .btn--success}
 
-[CMU](https://kilthub.cmu.edu/articles/thesis/Learning_Enhanced_Diagnosis_of_Logic_Circuit_Failures/11962164){: .btn .btn--success}
-[Proquest](https://www.proquest.com/docview/2385344942){: .btn .btn--success}
-
-## <a name="4"></a>Conferences and Journals
+## <a name="conference"></a>Conferences and Journals
 
 + <span style="color:#BB86FC">Soumya Mittal</span>, Szczepan Urban, Kun Young Chung, Jakub Janicki, Wu-Tung Cheng, Martin Parley, Manish Sharma, Shaun Nicholson, **"Industry Evaluation of Reversible Scan Chain Diagnosis"**, *International Test Conference (ITC), 2022*
 
