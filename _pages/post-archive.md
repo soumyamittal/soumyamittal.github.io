@@ -1,6 +1,5 @@
 ---
-title: "Posts by Year"
+title: "Sample Posts"
 permalink: /post-archive/
 layout: posts
-author_profile: true
 ---
