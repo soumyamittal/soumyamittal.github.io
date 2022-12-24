@@ -28,7 +28,7 @@ I earned my Bachelor's degree from the Department of Electronics and Communicati
 + [May 2019] Presented our paper, *LearnX: A Hybrid Deterministic-Statistical Defect Diagnosis Methodology*, at the [IEEE European Test Symposium (ETS)](https://www.testgroup.polito.it/ets19/), Baden-Baden, Germany
 + [Apr 2019] Semifinalist in the [TTTC’s E. J. McCluskey Best Doctoral Thesis Award Contest](http://tttc-vts.org/public_html/new/2019/doctoral-thesis-award/) held at the [VLSI Test Symposium (VTS)](http://tttc-vts.org/public_html/new/2019/), Monterey, CA, USA
 + [Apr 2019] Check out our paper, *Diagnosis Outcome Preview through Learning*, at the VLSI Test Symposium (VTS), Monterey, CA, USA
-+ [Feb 2019] Check out our work on *An Automated Methodology for Logic Characterization Vehicle Design* in the February 2019 issue of the [Electronic Design Failure Analysis (EDFA) Magazine](https://www.asminternational.org/web/edfas/news/edfa/-/journal_content/56/10192/36324098/MAGAZINE)
++ [Feb 2019] Check out our work, *An Automated Methodology for Logic Characterization Vehicle Design*, in the February 2019 issue of the [Electronic Design Failure Analysis (EDFA) Magazine](https://www.asminternational.org/web/edfas/news/edfa/-/journal_content/56/10192/36324098/MAGAZINE)
 + [Oct 2018] Check out our paper, *Improving Diagnosis Efficiency via Machine Learning*, at the International Test Conference (ITC), Washington, D.C., USA
 + [Apr 2018] Presented our paper, *NOIDA: Noise-resistant Intra-cell Diagnosis*, at the [VLSI Test Symposium (VTS)](http://www.tttc-vts.org/public_html/new/2018/), San Francisco, CA, USA
 + [Dec 2017] Awarded the Neil and Jo Bushnell Fellowship from [Carnegie Mellon College of Engineering (CIT)](https://www.cit.cmu.edu)
