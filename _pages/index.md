@@ -17,6 +17,7 @@ I earned my Bachelor's degree from the Department of Electronics and Communicati
 
 ### News
 + [Dec 2022] Our book on the use of ML for electronic circuit diagnosis is publishing in Feb 2023, pre-order it on [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384) now!
++ [Nov 2022] Serving in the technical program committee for the [European Test Symposium (ETS)](https://cas.polito.it/ETS23/#/program), submit your abstracts by 16-Dec-2022!
 + [Sep 2022] Presented our paper, *Industry Evaluation of Reversible Scan Chain Diagnosis*, at the [International Test Conference (ITC)](http://www.itctestweek.org/), Anaheim, CA, USA
 + [Oct 2021] Check out our paper, *Improving Diagnosis Resolution with Population Level Statistical Diagnosis*, at the [International Symposium for Testing and Failure Analysis (ISTFA)](https://www.asminternational.org/web/istfa), Phoenix, AZ, USA
 + [Aug 2020] Our article, *Towards Smarter Diagnosis: A Learning-based Diagnostic Outcome Previewer*, is published in the the ACM Transactions on Design Automation of Electronic Systems (TODAES)
