@@ -16,10 +16,10 @@ I earned my Bachelor's degree from the Department of Electronics and Communicati
 ---
 
 ### News
-+ [Dec 2022](https://soumyamittal.github.io/machine-learning-in-logic-circuit-diagnosis/){: .btn .btn--success} Our book on the use of ML for electronic circuit diagnosis is publishing in Feb 2023, pre-order it on [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384) now!
++ [Dec 2022](/machine-learning-in-logic-circuit-diagnosis/){: .btn .btn--success} Our book on the use of ML for electronic circuit diagnosis is publishing in Feb 2023, pre-order it on [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384) now!
 + [Nov 2022] I am serving in the technical program committee for the [European Test Symposium (ETS)](https://cas.polito.it/ETS23/#/program), submit your abstracts by 16-Dec-2022!
-+ [Sep 2022] Presented our paper at the [International Test Conference (ITC)](http://www.itctestweek.org/), Anaheim, CA, USA
-+ [Oct 2021] Check out our paper, *Improving Diagnosis Resolution with Population Level Statistical Diagnosis*, at the [International Symposium for Testing and Failure Analysis (ISTFA)](https://www.asminternational.org/web/istfa), Phoenix, AZ, USA
++ [Sep 2022](/industry-evaluation-of-reversible-scan-chain-diagnosis/) Presented our paper at the [International Test Conference (ITC)](http://www.itctestweek.org/), Anaheim, CA, USA
++ [Oct 2021](https://soumyamittal.github.io/improving-diagnosis-resolution-with-population-level-statistical-diagnosis/) Check out our paper at the [International Symposium for Testing and Failure Analysis (ISTFA)](https://www.asminternational.org/web/istfa), Phoenix, AZ, USA
 + [Feb 2021] My patent on *Integrated circuit defect diagnosis using machine learning* is published
 + [Aug 2020] Our article, *Towards Smarter Diagnosis: A Learning-based Diagnostic Outcome Previewer*, is published in the the ACM Transactions on Design Automation of Electronic Systems (TODAES)
 + [Apr 2020] Presented our paper, *A Deterministic-Statistical Multiple-Defect Diagnosis Methodology*, at the [VLSI Test Symposium (VTS)](https://tttc-vts.org/public_html/new/2020/home/index.html), San Diego, USA
