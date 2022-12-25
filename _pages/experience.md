@@ -34,7 +34,7 @@ classes: wide
 
 ### [Carnegie Mellon University (CMU)](https://www.cmu.edu/)
 <span style="color:#ffd300">PhD Student</span>\
-08/2014 - 01/2020
+08/2014 - 01/2020, Pittsburgh, PA, USA
 + Innovated a logic diagnostics method that uses ML to reduce diagnostics noise and increase FA efficiency by 40%
 + Developed layout-aware and cell-aware techniques that use physical neighborhood to enhance diagnostics
 resolution and decrease FA cost by 33%
@@ -46,13 +46,13 @@ resolution and decrease FA cost by 33%
 
 ### [Carnegie Mellon University (CMU)](https://www.cmu.edu/)
 <span style="color:#ffd300">18-765 Teaching Assistant</span>\
-Fall 2019, Fall 2018, Fall 2017, Spring 2016
+Fall 2019, Fall 2018, Fall 2017, Spring 2016, Pittsburgh, PA, USA
 + [18-765: Digital Systems Testing and Testable Design](https://courses.ece.cmu.edu/18765) is a graduate-level course on the theory and practice of fault models, test generation, design for testability for digital integrated circuits and systems.
 + Responsibilities:  Lead weekly recitation sessions, hold office hours, and grade exams, projects and homework assignments
 
 ### [Carnegie Mellon University (CMU)](https://www.cmu.edu/)
 <span style="color:#ffd300">18-615 Teaching Assistant</span>\
-Spring 2017
+Spring 2017, Pittsburgh, PA, USA
 + [18-615: Micro and Nano Systems Fabrication](https://courses.ece.cmu.edu/18615) is a graduate-level course on the process flow and design methodology for integrated systems fabrication.
 + Responsibilities: Hold office hours, and grade lab reports, projects and homework assignments
 
@@ -61,7 +61,7 @@ Spring 2017
 
 ### [Carnegie Mellon University (CMU)](https://www.cmu.edu/)
 <span style="color:#ffd300">Summer Academy for Math and Science (SAMS) Instructor</span>\
-Summer 2017, Summer 2018, Summer 2019
+Summer 2017, Summer 2018, Summer 2019, Pittsburgh, PA, USA
 + [SAMS](https://www.cmu.edu/pre-college/academic-programs/sams.html) is an outreach program to encourage rising seniors from underrepresented communities to pursue STEM fields.
 + Responsibilities: Instruct two courses - Python Programming and Circuit Basics, and guide students in their college applications and career path
 
