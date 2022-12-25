@@ -49,7 +49,7 @@ A comprehensive investigation of new integrated circuit (IC) design and fabricat
 
 [EDFA'19](https://www.asminternational.org/web/edfas/news/edfa/-/journal_content/56/10192/36324098/MAGAZINE){: .btn .btn--success}
 [ETS'17](https://ieeexplore.ieee.org/document/7968231){: .btn .btn--success}
-[ITC'16 (1)](https://ieeexplore.ieee.org/document/7805849){: .btn .btn--success}  
+[ITC'16 (1)](https://ieeexplore.ieee.org/document/7805849){: .btn .btn--success}
 [ITC'16 (2)](https://ieeexplore.ieee.org/document/7805850){: .btn .btn--success}
 [ASMC'16](https://ieeexplore.ieee.org/document/7491080){: .btn .btn--success}
 [DATE'16](https://ieeexplore.ieee.org/document/7459289){: .btn .btn--success}
