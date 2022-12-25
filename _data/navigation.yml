@@ -3,8 +3,8 @@ main:
    - title: "Welcome"
      url: /
    - title: "Experience"
-     url:  /experience/
-     title: "PhD Research"
+     url: /experience/
+   - title: "PhD Research"
      url: /research/
    - title: "Publications"
      url: /publications/
