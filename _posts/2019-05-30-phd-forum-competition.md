@@ -1,7 +1,6 @@
 ---
 title: PhD Forum Competition
 classes: wide
-
 ---
 
 I won the [2019 PhD Forum Contest](https://www.testgroup.polito.it/ets19/phd-forum/), which was held at the IEEE European Test Symposium (ETS), Baden-Baden, Germany. The goal of the competition is to provide an opportunity for the doctoral students to obtain feedback from the academic and industry experts in the field of electronic circuit test, and identify the most-impactful doctoral work.
