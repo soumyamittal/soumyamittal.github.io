@@ -11,7 +11,7 @@ classes: wide
 + [Conferences and Journals](#conference)
 
 ## <a name="patent"></a>Patents
-+ <span style="color:#73b64f">Soumya Mittal</span>, Shawn Blanton, **"Integrated Circuit Defect Diagnosis Using Machine Learning"**, US Patent Application No. 16/986,963, Feb 2020 [Google Patents](https://patents.google.com/patent/US20210042644A1/en){: .btn .btn--success}
++ <span style="color:#73b64f">Soumya Mittal</span>, Shawn Blanton, **"Integrated Circuit Defect Diagnosis Using Machine Learning"**, US Patent Application No. 16/986,963, Feb 2020 [Google Patents](https://patents.google.com/patent/US20210042644A1/en){: .btn .btn--info}
 
 ## <a name="book"></a>Book Chapters and Magazines
 + Shawn Blanton, Qicheng Huang, Chenlei Fang, <span style="color:#73b64f">Soumya Mittal</span>, **“Machine Learning in Logic Circuit Diagnosis”**, in Machine Learning Support for Fault Diagnosis of System-on-Chip, Springer, 2023  [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384){: .btn .btn--success}
