@@ -39,3 +39,5 @@ I earned my Bachelor's degree from the Department of Electronics and Communicati
 + [Nov 2016](/logic-characterization-vehicle-design-reflection-via-layout-rewiring/){: .btn .btn--success} Check out our paper at the [International Test Conference (ITC)](https://web.archive.org/web/20161207123429/http://www.itctestweek.org/), Fort Worth, TX, USA
 + [May 2016](/logic-characterization-vehicle-design-for-yield-learning/){: .btn .btn--success} Check out our paper at the [Advanced Semiconductor Manufacturing Conference (ASMC)](https://www.semi.org/en/connect/events/advanced-semiconductor-manufacturing-conference-asmc#overview), Saratoga Springs, NY, USA
 + [Mar 2016](/achieving-100-cell-aware-coverage-by-design/){: .btn .btn--success} Check out our paper at the [Design, Automation & Test in Europe Conference & Exhibition (DATE)](https://past.date-conference.com/proceedings-archive/2016/html/toc.html#s27), Dresden, Germany
+
+---

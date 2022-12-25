@@ -51,3 +51,5 @@ classes: wide
 +  Ben Niewenhuis, Zeye Liu, <span style="color:#ffd300">Soumya Mittal</span>, Shawn Blanton, **"Logic characterization vehicle design for yield learning"**, *SEMI Advanced Semiconductor Manufacturing Conference (ASMC), 2016*     [IEEE Xplore](https://ieeexplore.ieee.org/document/7491080){: .btn .btn--success}
 
 +  Zeye Liu, Ben Niewenhuis, <span style="color:#ffd300">Soumya Mittal</span>, Shawn Blanton, **"Achieving 100% cell-aware coverage by design"**, *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2016*       [IEEE Xplore](https://ieeexplore.ieee.org/document/7459289){: .btn .btn--success}
+
+---
