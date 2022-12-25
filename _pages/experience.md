@@ -5,9 +5,24 @@ tags: {soumya, mittal, qualcomm, cmu, carnegie, mellon, university, diagnosis, s
 classes: wide
 ---
 
+---
+
 ### Professional Experience
 
+Qualcomm Technologies, Inc.
+Senior Engineer{: .text-left} 02/2020 - Present, San Diego, US{: .text-right}
 
+Intel Corporation
+Graduate Technical Intern
+05/2016 - 08/2016
++ Defined key metrics to measure the testability and diagnosability of a logic chip
++ Evaluated and visualized the performance of self-designed test chip against Intel’s
+
+GlobalFoundries
+Summer Intern
+07/2015 - 08/2015
++ Developed a layout-aware diagnosis technique that accelerated silicon failure analysis by 25%
++ Streamlined data extraction from the physical layout DB using Python APIs to facilitate rapid root-cause identification
 ---
 
 ### Research Experience
