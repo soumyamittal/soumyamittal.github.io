@@ -2,7 +2,9 @@
 main:
    - title: "Welcome"
      url: /
-   - title: "PhD Research"
+   - title: "Experience"
+     url:  /experience/
+     title: "PhD Research"
      url: /research/
    - title: "Publications"
      url: /publications/
@@ -10,8 +12,5 @@ main:
      url: /blog/
    - title: "Professional Service"
      url: /professional-service/
-   - title: "Teaching"
-     url: /teaching/
-
   # - title: "Sitemap"
   #   url: /sitemap/
