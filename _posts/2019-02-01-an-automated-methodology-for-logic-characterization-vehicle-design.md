@@ -6,7 +6,7 @@ classes: wide
 
 This paper is published in the Electronic Design Failure Analysis (EDFA) Magazine, ASM International, Feb 2019
 
-Authors: Zeye Liu, Ben Niewenhuis, <span style="color:#BB86FC">Soumya Mittal</span>, Phillip Fynan, Shawn Blanton
+Authors: Zeye Liu, Ben Niewenhuis, <span style="color:#ff7597">Soumya Mittal</span>, Phillip Fynan, Shawn Blanton
 
 Summary: A new product-like test chip called the CM-LCV is introduced to address the challenges facing conventional product-like test chips. The CM-LCV implements a highly testable two-dimensional array of functional unit blocks that reflects the properties of product designs, resulting in an optimized test chip for yield learning.
 
