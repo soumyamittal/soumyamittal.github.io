@@ -19,6 +19,13 @@ Software-based diagnosis analyzes the observed response of a failing circuit to 
 
 To further improve the resolution and accuracy of diagnosis, LearnX is strengthened by a back-end layout analysis technique called [PADLOC (Physically-aware Defect Localization and Characterization)](https://ieeexplore.ieee.org/document/8267889) and a front-end approach called [NOIDA (NOise-resistant Intra-cell DiAgnosis)](https://ieeexplore.ieee.org/document/8368664). Both methods are applicable to any defect type and can handle defects exhibiting arbitrary characteristics. Instead of using a particular fault model to locate defects, they derive the defect behavior by analyzing the logic activity of the nets surrounding its location.
 
+[Patent](https://patents.google.com/patent/US20210042644A1/en){: .btn .btn--success}
+[Book](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384){: .btn .btn--success}
+[Dissertation](https://kilthub.cmu.edu/articles/thesis/Learning_Enhanced_Diagnosis_of_Logic_Circuit_Failures/11962164){: .btn .btn--success}
+[VTS'20](https://ieeexplore.ieee.org/document/9107603){: .btn .btn--success}
+[ETS'19](https://ieeexplore.ieee.org/document/8791512){: .btn .btn--success}
+[VTS'18](https://ieeexplore.ieee.org/document/8368664){: .btn .btn--success}
+[ATS'17](https://ieeexplore.ieee.org/document/8267889){: .btn .btn--success}
 
 ## <a name="2"></a>Machine learning for volume diagnostics throughput
 
@@ -27,6 +34,9 @@ Logic diagnosis, the process of identifying and locating possible defects in fai
 
 We have developed a methodology to predict whether a fail log for a given design will result in a diagnosis outcome that is meaningful for the purpose at hand. Different aspects of potential diagnosis outcomes such as the existence of multiple defects, the magnitude of diagnosis resolution, the amount of time a single diagnosis run  takes, and the type of defect (logic vs. scan chain) are predicted using random forest classification and regression.
 
+[TODAES'20](https://dl.acm.org/doi/abs/10.1145/3398267){: .btn .btn--success}
+[VTS'19](https://ieeexplore.ieee.org/document/8758642){: .btn .btn--success}
+[ITC'18](https://ieeexplore.ieee.org/document/8624884){: .btn .btn--success}
 
 ## <a name="3"></a>Test chip design, test and diagnosis
 
@@ -36,3 +46,10 @@ A comprehensive investigation of new integrated circuit (IC) design and fabricat
 + Guarantees 100% intra-cell defect testability for all standard cells
 + Ensures optimal cell-aware diagnosability by design
 + Diagnoses multiple defects effectively
+
+[EDFA'19](https://www.asminternational.org/web/edfas/news/edfa/-/journal_content/56/10192/36324098/MAGAZINE){: .btn .btn--success}
+[ETS'17](https://ieeexplore.ieee.org/document/7968231){: .btn .btn--success}
+[ITC'16 (1)](https://ieeexplore.ieee.org/document/7805849){: .btn .btn--success}  
+[ITC'16 (2)](https://ieeexplore.ieee.org/document/7805850){: .btn .btn--success}
+[ASMC'16](https://ieeexplore.ieee.org/document/7491080){: .btn .btn--success}
+[DATE'16](https://ieeexplore.ieee.org/document/7459289){: .btn .btn--success}
