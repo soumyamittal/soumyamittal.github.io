@@ -13,8 +13,8 @@ Summary: I have developed a logic diagnosis methodology that effectively diagnos
 % include figure image_path="/assets/images/2020-01-phd-defense.jpg" alt="Image after my oral presentation with my thesis committee" caption="Left to right:  Prof. Andrzej Strojwas, Soumya Mittal, Prof. Shawn Blanton, Prof. Diana Marculescu" %}
 -->
 
-<figure style="width: 80px" class="align-center">
-  <a href="/assets/images/2020-01-phd-defense.jpg" title="Left to right: Prof. Andrzej Strojwas, Soumya Mittal, Prof. Shawn Blanton, Prof. Diana Marculescu (Enamul and Yan participated virtually)" alt="Pic taken after my oral presentation with my thesis committee">
+<figure style="width: 80%" class="align-center">
+  <a href="/assets/images/2020-01-phd-defense.jpg" title="PhD thesis committee" alt="Pic taken after my oral presentation with my thesis committee">
   <img src="/assets/images/2020-01-phd-defense.jpg" alt=""></a>
   <figcaption>Left to right: Prof. Andrzej Strojwas, Soumya Mittal, Prof. Shawn Blanton, Prof. Diana Marculescu (Enamul and Yan participated virtually)</figcaption>
 </figure>
