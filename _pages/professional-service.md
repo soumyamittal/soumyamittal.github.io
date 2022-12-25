@@ -21,5 +21,3 @@ classes: wide
 + IEEE International Test Conference (ITC)
 + IEEE VLSI Test Symposium (VTS)
 + IEEE European Test Symposium (ETS)
-
----
