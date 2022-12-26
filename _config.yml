@@ -125,10 +125,10 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://soumyamittal.github.io"
     - label: "Scholar"
-      icon: "fab fa-google"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=wIoS-CYAAAAJ&hl=en"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin fa-inverse"
       url: "https://linkedin.com/in/soumyamittal/"
 
 # Site Footer
