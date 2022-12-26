@@ -16,9 +16,9 @@ I earned my Bachelor's degree from the Department of Electronics and Communicati
 ---
 
 ### News
-+ [Dec 2022](/machine-learning-in-logic-circuit-diagnosis/){: .btn .btn--success} Our book on the use of ML for electronic circuit diagnosis is publishing in Feb 2023, pre-order it on [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384) now!
-+ [Nov 2022](/professional-service/){: .btn .btn--success} I am serving in the technical program committee for the [European Test Symposium (ETS)](https://cas.polito.it/ETS23/#/program), submit your abstracts by 16-Dec-2022!
-+ [Sep 2022](/industry-evaluation-of-reversible-scan-chain-diagnosis/){: .btn .btn--success} Presented our paper at the [International Test Conference (ITC)](http://www.itctestweek.org/), Anaheim, CA, USA
+ [Dec 2022](/machine-learning-in-logic-circuit-diagnosis/){: .btn .btn--success} Our book on the use of ML for electronic circuit diagnosis is publishing in Feb 2023, pre-order it on [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384) now!
+ [Nov 2022](/professional-service/){: .btn .btn--success} I am serving in the technical program committee for the [European Test Symposium (ETS)](https://cas.polito.it/ETS23/#/program), submit your abstracts by 16-Dec-2022!
+ [Sep 2022](/industry-evaluation-of-reversible-scan-chain-diagnosis/){: .btn .btn--success} Presented our paper at the [International Test Conference (ITC)](http://www.itctestweek.org/), Anaheim, CA, USA
 + [Oct 2021](/improving-diagnosis-resolution-with-population-level-statistical-diagnosis/){: .btn .btn--success} Check out our paper at the [International Symposium for Testing and Failure Analysis (ISTFA)](https://www.asminternational.org/web/istfa), Phoenix, AZ, USA
 + [Feb 2021](/integrated-circuit-defect-diagnosis-using-machine-learning/){: .btn .btn--success} My patent on *Integrated circuit defect diagnosis using machine learning* is published
 + [Aug 2020](/towards-smarter-diagnosis-a-learning-based-diagnostic-outcome-previewer/){: .btn .btn--success} Our article is published in the [ACM Transactions on Design Automation of Electronic Systems (TODAES)](https://dl.acm.org/journal/todaes)
