@@ -11,7 +11,7 @@ Summary: Reversible scan chain is an architecture targeted towards improving the
 
 <!-- <object data="/assets/images/industry-evaluation-of-reversible-scan-chain-diagnosis.pdf" height="640" width="1000" type='application/pdf'></object> -->
 
-<div id="adobe-dc-view"></div>
+<div id="adobe-dc-view" style="height: 480px"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
   document.addEventListener("adobe_dc_view_sdk.ready", function(){
