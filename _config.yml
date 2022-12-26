@@ -135,7 +135,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin fa-inverse"
       url:  "https://linkedin.com/in/soumyamittal/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
