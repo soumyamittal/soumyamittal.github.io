@@ -5,6 +5,8 @@ tags: {soumya, mittal, qualcomm, cmu, carnegie, mellon, university, diagnosis, s
 classes: wide
 ---
 
+8 (3 + PhD) years of experience in the areas of logic test, diagnostics and yield learning. Skilled in python, data science and applied machine learning. Familiar with fabless, fab and IDM work environments.
+
 ---
 
 ## Professional Experience

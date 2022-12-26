@@ -1,5 +1,5 @@
 ---
-title: "Multiple-defect diagnosis for logic characterization vehicles"
+title: "Multiple-defect Diagnosis for Logic Characterization Vehicles"
 classes: wide
 ---
 

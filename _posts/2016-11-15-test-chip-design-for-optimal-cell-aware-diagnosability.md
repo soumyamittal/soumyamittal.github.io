@@ -1,5 +1,5 @@
 ---
-title: Test chip design for optimal cell-aware diagnosability
+title: Test Chip Design for Optimal Cell-aware Diagnosability
 classes: wide
 ---
 

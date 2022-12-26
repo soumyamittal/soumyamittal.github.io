@@ -1,5 +1,5 @@
 ---
-title: Logic characterization vehicle design reflection via layout rewiring
+title: Logic Characterization Vehicle Design Reflection via Layout Rewiring
 classes: wide
 ---
 

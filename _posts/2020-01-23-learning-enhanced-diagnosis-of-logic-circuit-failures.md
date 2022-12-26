@@ -1,5 +1,5 @@
 ---
-title: Learning enhanced diagnosis of logic circuit failures
+title: Learning Enhanced Diagnosis of Logic Circuit Failures
 classes: wide
 ---
 

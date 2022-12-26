@@ -1,5 +1,5 @@
 ---
-title: "Achieving 100% cell-aware coverage by design"
+title: "Achieving 100% Cell-aware Coverage by Design"
 classes: wide
 ---
 

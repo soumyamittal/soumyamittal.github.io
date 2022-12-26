@@ -1,5 +1,5 @@
 ---
-title: Logic characterization vehicle design for yield learning
+title: Logic Characterization Vehicle Design for Yield Learning
 classes: wide
 ---
 
