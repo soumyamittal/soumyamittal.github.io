@@ -213,8 +213,9 @@ body:hover .visually-hidden button {
   }
 
   .fa-google {
-    color: #ffa700;
+    color: $google-color;
   }
+
   .fa-bitbucket {
     color: $bitbucket-color;
   }

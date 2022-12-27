@@ -7,9 +7,9 @@ classes: wide
 
 Hello!
 
-I am currently a senior yield and diagnostics engineer at [Qualcomm Technologies Inc.](https://www.qualcomm.com/home), San Diego, California, USA. My interests lie at the intersection of semiconductor diagnostics, yield and machine learning.  I lead the development of scan diagnostics methodologies and logic yield ramp of groundbreaking Snapdragon products.
+I am currently a senior yield and diagnostics engineer at [Qualcomm Technologies Inc.](https://www.qualcomm.com/home), San Diego, California, USA. My interests lie at the intersection of semiconductor diagnostics, yield management, data science and machine learning.  I lead the development of scan diagnostics methodologies and logic yield ramp of groundbreaking Snapdragon products.
 
-I graduated with a PhD from [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) in 2020 under the guidance of [Prof. Shawn Blanton](https://www.actl.ece.cmu.edu/). I pioneered the use of machine learning to enhance logic diagnosis algorithms, and, consequently, accelerate failure analysis and yield learning.
+I graduated with a PhD from [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), USA in 2020 under the guidance of [Prof. Shawn Blanton](https://www.actl.ece.cmu.edu/). I pioneered the use of machine learning to enhance logic diagnosis algorithms, and, consequently, accelerate failure analysis and yield learning.
 
 I earned my Bachelor's degree from the Department of Electronics and Communication Engineering at [Indian Institute of Technology (IIT) Roorkee](https://www.iitr.ac.in/), India in 2014. I have held an internship at [GlobalFoundries](https://www.globalfoundries.com/) and [Intel](https://www.intel.com) in the summers of 2015 and 2016, respectively.
 
