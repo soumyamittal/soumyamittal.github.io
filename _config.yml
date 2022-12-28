@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 locale                   : "en-US"
 title                    : "Soumya Mittal"
 title_separator          : "-"
-subtitle                 : "Chip Doctor" # site tagline that appears below site title in masthead
+subtitle                 : "Semiconductor Chip Doctor" # site tagline that appears below site title in masthead
 name                     : "Soumya Mittal"
 description              : "Personal webpage of Soumya Mittal, senior yield and diagnostics engineer at Qualcomm"
 url                      : "https://soumyamittal.github.io"
