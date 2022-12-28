@@ -11,17 +11,7 @@ Summary: A learning-based previewer is proposed that is able to predict five asp
 
 [ACM](https://dl.acm.org/doi/abs/10.1145/3398267){: .btn .btn--success}
 
-<div id="adobe-dc-view" style="height: 480px"></div>
-<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-  document.addEventListener("adobe_dc_view_sdk.ready", function(){
-    var adobeDCView = new AdobeDC.View({clientId: "b92bfd344a0744ef8ffd3e72979d4c40", divId: "adobe-dc-view"});
-    adobeDCView.previewFile({
-      content:{location: {url: "https://dl.acm.org/doi/pdf/10.1145/3398267"}},
-      metaData:{fileName: "3398267"}
-    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE", showAnnotationTools: true, showDownloadPDF: true });
-  });
-</script>
+<object data="https://dl.acm.org/doi/pdf/10.1145/3398267" height="640" width="1000" type='application/pdf'></object>
 
 
 ---
