@@ -17,7 +17,7 @@ Summary: This paper describes a two-phase, physically-aware diagnosis methodolog
   document.addEventListener("adobe_dc_view_sdk.ready", function(){
     var adobeDCView = new AdobeDC.View({clientId: "b92bfd344a0744ef8ffd3e72979d4c40", divId: "adobe-dc-view"});
     adobeDCView.previewFile({
-      content:{location: {url: "/assets/images/learnx-a-hybrid-deterministic-statistical-defect-diagnosis-methodology-ets19-paper.pdf"}},
+      content:{location: {url: "/assets/pdf/learnx-a-hybrid-deterministic-statistical-defect-diagnosis-methodology-ets19-paper.pdf"}},
       metaData:{fileName: "learnx-a-hybrid-deterministic-statistical-defect-diagnosis-methodology-ets19-paper.pdf"}
     }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE", showAnnotationTools: true, showDownloadPDF: true });
   });
