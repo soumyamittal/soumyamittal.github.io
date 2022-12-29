@@ -17,9 +17,9 @@ Summary: We have developed a logic diagnosis methodology that is capable of effe
   document.addEventListener("adobe_dc_view_sdk.ready", function(){
     var adobeDCView = new AdobeDC.View({clientId: "b92bfd344a0744ef8ffd3e72979d4c40", divId: "adobe-dc-view"});
     adobeDCView.previewFile({
-      content:{location: {url: "https://patentimages.storage.googleapis.com/1f/06/cb/f1c13ee865b234/US20210042644A1.pdf"}},
+      content:{location: {url: "/assets/pdf/US20210042644A1.pdf"}},
       metaData:{fileName: "US20210042644A1.pdf"}
-    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE", showAnnotationTools: true, showDownloadPDF: true });
+    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_WIDTH", showAnnotationTools: true, showDownloadPDF: true });
   });
 </script>
 
