@@ -9,6 +9,8 @@ Thesis committee: [Prof. Andrzej Strojwas](https://www.ece.cmu.edu/directory/bio
 
 Summary: I have developed a logic diagnosis methodology that effectively diagnoses and classifies multiple defects in integrated circuits. In my thesis, I have proposed and demonstrated, for the first time, the use of machine learning to successfully pinpoint location and behavior of a defect.
 
+[CMU](https://kilthub.cmu.edu/articles/thesis/Learning_Enhanced_Diagnosis_of_Logic_Circuit_Failures/11962164){: .btn .btn--success}  [Proquest](https://www.proquest.com/docview/2385344942){: .btn .btn--success}
+
 <!---
 % include figure image_path="/assets/images/2020-01-phd-defense.jpg" alt="Image after my oral presentation with my thesis committee" caption="Left to right:  Prof. Andrzej Strojwas, Soumya Mittal, Prof. Shawn Blanton, Prof. Diana Marculescu" %}
 -->

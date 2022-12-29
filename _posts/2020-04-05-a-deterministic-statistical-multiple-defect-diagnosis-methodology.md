@@ -19,7 +19,7 @@ Summary: This paper describes a three-phase, physically-aware diagnosis methodol
     adobeDCView.previewFile({
       content:{location: {url: "/assets/pdf/a-deterministic-statistical-multiple-defect-diagnosis-methodology-vts20-paper.pdf"}},
       metaData:{fileName: "a-deterministic-statistical-multiple-defect-diagnosis-methodology-vts20-paper.pdf"}
-    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE", showAnnotationTools: true, showDownloadPDF: true });
+    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_WIDTH", showAnnotationTools: true, showDownloadPDF: true });
   });
 </script>
 

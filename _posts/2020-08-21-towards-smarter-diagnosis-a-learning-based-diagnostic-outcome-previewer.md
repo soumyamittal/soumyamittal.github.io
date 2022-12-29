@@ -19,7 +19,7 @@ Summary: A learning-based previewer is proposed that is able to predict five asp
     adobeDCView.previewFile({
       content:{location: {url: "/assets/pdf/towards-smarter-diagnosis-a-learning-based-diagnostic-outcome-previewer.pdf"}},
       metaData:{fileName: "towards-smarter-diagnosis-a-learning-based-diagnostic-outcome-previewer.pdf"}
-    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE", showAnnotationTools: true, showDownloadPDF: true });
+    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_WIDTH", showAnnotationTools: true, showDownloadPDF: true });
   });
 </script>
 
