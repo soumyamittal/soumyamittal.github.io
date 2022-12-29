@@ -22,7 +22,20 @@ Summary: Reversible scan chain is an architecture targeted towards improving the
     adobeDCView.previewFile({
       content:{location: {url: "/assets/pdf/industry-evaluation-of-reversible-scan-chain-diagnosis-itc22-paper.pdf"}},
       metaData:{fileName: "industry-evaluation-of-reversible-scan-chain-diagnosis-itc22-paper.pdf"}
-    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE", showAnnotationTools: true, showDownloadPDF: true });
+    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_WIDTH", showAnnotationTools: true, showDownloadPDF: true });
+  });
+</script>
+
+
+<div id="adobe-dc-view1" style="height: 480px"></div>
+<script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
+<script type="text/javascript">
+  document.addEventListener("adobe_dc_view_sdk.ready", function(){
+    var adobeDCView = new AdobeDC.View({clientId: "b92bfd344a0744ef8ffd3e72979d4c40", divId: "adobe-dc-view"});
+    adobeDCView.previewFile({
+      content:{location: {url: "/assets/pdf/industry-evaluation-of-reversible-scan-chain-diagnosis-itc22-ppt.pdf"}},
+      metaData:{fileName: "industry-evaluation-of-reversible-scan-chain-diagnosis-itc22-ppt.pdf"}
+    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_WIDTH", showAnnotationTools: true, showDownloadPDF: true });
   });
 </script>
 
