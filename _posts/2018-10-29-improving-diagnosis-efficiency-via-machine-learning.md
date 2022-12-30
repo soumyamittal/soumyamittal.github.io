@@ -19,7 +19,7 @@ Summary: Resources can be easily wasted if diagnosis results in no meaningful in
     adobeDCView.previewFile({
       content:{location: {url: "/assets/pdf/improving-diagnosis-efficiency-via-machine-learning-itc18-paper.pdf"}},
       metaData:{fileName: "improving-diagnosis-efficiency-via-machine-learning-itc18-paper.pdf"}
-    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE", showAnnotationTools: true, showDownloadPDF: true });
+    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_WIDTH", showAnnotationTools: true, showDownloadPDF: true });
   });
 </script>
 
