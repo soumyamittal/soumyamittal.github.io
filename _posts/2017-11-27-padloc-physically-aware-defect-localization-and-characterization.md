@@ -9,7 +9,7 @@ Authors: <span style="color:#ffd300">Soumya Mittal</span>, Shawn Blanton
 
 Summary: This paper describes a generalized physically-aware methodology called PADLOC (Physically-Aware Defect LOcalization and Characterization) to improve the quality of diagnosis. PADLOC consists of (a) identifying the subnets that are more likely to correspond to the actual defect, and (b) deriving the defect behavior based on the activity of the neighborhood (i.e., nets that are physically close and logically related).
 
- [IEEE Xplore](https://ieeexplore.ieee.org/document/8267889){: .btn .btn--success}
+[IEEE Xplore](https://ieeexplore.ieee.org/document/8267889){: .btn .btn--success}
 
 <div id="adobe-dc-view" style="height: 480px"></div>
 <script src="https://documentservices.adobe.com/view-sdk/viewer.js"></script>
