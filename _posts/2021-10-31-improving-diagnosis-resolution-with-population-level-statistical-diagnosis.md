@@ -19,7 +19,7 @@ Summary: In this paper, we present a diagnosis resolution improvement methodolog
     adobeDCView.previewFile({
       content:{location: {url: "/assets/pdf/improving-diagnosis-resolution-with-population-level-statistical-diagnosis-istfa21-pdf.pdf"}},
       metaData:{fileName: "improving-diagnosis-resolution-with-population-level-statistical-diagnosis-istfa21-pdf.pdf"}
-    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE", showAnnotationTools: true, showDownloadPDF: true });
+    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_WIDTH", showAnnotationTools: true, showDownloadPDF: true });
   });
 </script>
 
