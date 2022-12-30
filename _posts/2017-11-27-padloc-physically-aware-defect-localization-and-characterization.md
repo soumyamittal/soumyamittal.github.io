@@ -19,7 +19,7 @@ Summary: This paper describes a generalized physically-aware methodology called 
     adobeDCView.previewFile({
       content:{location: {url: "/assets/pdf/padloc-physically-aware-defect-localization-and-characterization-ats17-paper.pdf"}},
       metaData:{fileName: "padloc-physically-aware-defect-localization-and-characterization-ats17-paper.pdf"}
-    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_PAGE", showAnnotationTools: true, showDownloadPDF: true });
+    }, { embedMode: "FULL_WINDOW", defaultViewMode: "FIT_WIDTH", showAnnotationTools: true, showDownloadPDF: true });
   });
 </script>
 
