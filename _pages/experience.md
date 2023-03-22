@@ -12,7 +12,7 @@ classes: wide
 
 ### [Qualcomm Technologies Inc.](https://www.qualcomm.com/home)
 <span style="color:#ffd300">Senior Lead Engineer</span>\
-02/2023 - Present, Bengaluru, KA, India
+02/2023 - Present, Bengaluru, KA, India\
 <span style="color:#ffd300">Senior Engineer</span>\
 02/2020 - 02/2023, San Diego, CA, US
 + Lead development of scan diagnostics methodologies
