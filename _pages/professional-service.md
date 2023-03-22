@@ -5,6 +5,8 @@ classes: wide
 ---
 
 ### Program Committee Member
++ IEEE International Test Conference (ITC) 2023
++ IEEE International Test Conference India (ITC-India) 2023
 + IEEE European Test Symposium (ETS) 2023
 + IEEE Latin-American Test Symposium (LATS) 2023
 

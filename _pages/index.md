@@ -7,7 +7,7 @@ classes: wide
 
 Hello!
 
-I am currently a senior yield and diagnostics engineer at [Qualcomm Technologies Inc.](https://www.qualcomm.com/home), San Diego, California, USA. My interests lie at the intersection of semiconductor diagnostics, yield management, data science and machine learning.  I lead the development of scan diagnostics methodologies and logic yield ramp of groundbreaking Snapdragon products.
+I am currently a senior lead engineer at [Qualcomm Technologies Inc.](https://www.qualcomm.com/home), Bengaluru, India. My interests lie at the intersection of semiconductor diagnostics, yield management, data science and machine learning.  I lead the development of scan diagnostics methodologies and logic yield ramp of groundbreaking Snapdragon products.
 
 I graduated with a PhD from [Department of Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), USA in 2020 under the guidance of [Prof. Shawn Blanton](https://www.actl.ece.cmu.edu/). I pioneered the use of machine learning to enhance logic diagnosis algorithms, and, consequently, accelerate failure analysis and yield learning.
 
@@ -16,7 +16,9 @@ I earned my Bachelor's degree from the Department of Electronics and Communicati
 ---
 
 ### News
-
++ [Mar 2023](/machine-learning-in-logic-circuit-diagnosis/){: .btn .btn--success} Our book on the use of ML for electronic circuit diagnosis is available online on [Springer](https://link.springer.com/chapter/10.1007/978-3-031-19639-3_5)
++ [Feb 2023](/experience/){: .btn .btn--success} Permanently moved back to India and joined Qualcomm India Private Ltd., Bengaluru!
++ [Jan 2023](/professional-service/){: .btn .btn--success} I am serving in the technical program committee for the [ITC](www.itctestweek.org) and [ITC-India](https://itctestweekindia.org/).
 + [Dec 2022](/machine-learning-in-logic-circuit-diagnosis/){: .btn .btn--success} Our book on the use of ML for electronic circuit diagnosis is publishing in Feb 2023, pre-order it on [Amazon](https://www.amazon.com/Machine-Learning-Support-Diagnosis-System/dp/3031196384) now!
 + [Nov 2022](/professional-service/){: .btn .btn--success} I am serving in the technical program committee for the [European Test Symposium (ETS)](https://cas.polito.it/ETS23/#/program), submit your abstracts by 16-Dec-2022!
 + [Sep 2022](/industry-evaluation-of-reversible-scan-chain-diagnosis/){: .btn .btn--success} Presented our paper at the [International Test Conference (ITC)](http://www.itctestweek.org/), Anaheim, CA, USA

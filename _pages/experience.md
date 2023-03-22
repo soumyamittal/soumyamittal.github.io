@@ -11,8 +11,10 @@ classes: wide
 ## Professional Experience
 
 ### [Qualcomm Technologies Inc.](https://www.qualcomm.com/home)
-<span style="color:#ffd300">Senior Hardware Engineer</span>\
-02/2020 - Present, San Diego, CA, US
+<span style="color:#ffd300">Senior Lead Engineer</span>\
+02/2023 - Present, Bengaluru, KA, India
+<span style="color:#ffd300">Senior Engineer</span>\
+02/2020 - 02/2023, San Diego, CA, US
 + Lead development of scan diagnostics methodologies
 + Lead logic yield ramp of automotive, computing, smartphone, wearables and XR products (10+ products so far)
 + Collaborate with design, test and FA teams to deploy new ATE and DFT approaches

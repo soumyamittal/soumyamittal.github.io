@@ -21,7 +21,7 @@ title                    : "Soumya Mittal"
 title_separator          : "-"
 subtitle                 : "Semiconductor Chip Doctor" # site tagline that appears below site title in masthead
 name                     : "Soumya Mittal"
-description              : "Personal webpage of Soumya Mittal, senior yield and diagnostics engineer at Qualcomm"
+description              : "Personal webpage of Soumya Mittal, senior lead yield and diagnostics engineer at Qualcomm"
 url                      : "https://soumyamittal.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : soumyamittal/soumyamittal.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 author:
   name             : "Soumya Mittal"
   avatar           : /assets/images/Soumya_Mittal.jpg
-  bio              : "Senior Yield and Diagnostics Engineer<br/>Qualcomm Technologies Inc.<br/>CMU PhD<br/>IIT Rookee B.Tech"
+  bio              : "Senior Lead Yield and Diagnostics Engineer<br/>Qualcomm Technologies Inc.<br/>CMU PhD<br/>IIT Rookee B.Tech"
   school           : Carnegie Mellon University
-  location         : "San Diego, CA, USA"
+  location         : "Bengaluru, India"
   email            :
   links:
     - label: "Email"
