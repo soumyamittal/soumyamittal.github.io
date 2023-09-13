@@ -4,22 +4,25 @@ permalink: /professional-service/
 classes: wide
 ---
 
-### Program Committee Member
-+ IEEE International Test Conference (ITC) 2023
-+ IEEE International Test Conference India (ITC-India) 2023
-+ IEEE European Test Symposium (ETS) 2023
-+ IEEE Latin-American Test Symposium (LATS) 2023
+### Program/Review Committee
++ Design, Automation and Test in Europe Conference (DATE) 2024
++ International Conference on VLSI Design & International Conference on Embedded Systems (VLSID) 2024
++ Asian Test Symposium (ATS) 2023
++ International Test Conference (ITC) 2023
++ International Test Conference India (ITC-India) 2023
++ European Test Symposium (ETS) 2023
++ Latin-American Test Symposium (LATS) 2023
 
 
 ### Journal Reviewer
-+ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
-+ ACM Transactions on Design Automation of Electronic Systems (TODAES)
++ Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
++ Transactions on Design Automation of Electronic Systems (TODAES)
 + Journal of Electronic Testing (JETTA)
-+ IEEE Transactions on Very Large-Scale Integration (VLSI) Systems (TVLSI)
-+ IEEE Transactions on Computers (TC)
++ Transactions on Very Large-Scale Integration (VLSI) Systems (TVLSI)
++ Transactions on Computers (TC)
 
 
 ### Conference Reviewer
-+ IEEE International Test Conference (ITC)
-+ IEEE VLSI Test Symposium (VTS)
-+ IEEE European Test Symposium (ETS)
++ International Test Conference (ITC)
++ VLSI Test Symposium (VTS)
++ European Test Symposium (ETS)
